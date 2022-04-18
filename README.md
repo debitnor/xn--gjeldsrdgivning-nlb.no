@@ -1,1 +1,1 @@
-Debitnor.no greneric page
+Debitnor.no generic page
